@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        
+        <div class="columns">
+           
+            <div class="column">
+                <h1 class="title">Carregar arquivo:</h1>
+                <button class="button">filtrar</button>
+
+                
+            </div>
+            <div class="column">
+                <h2 class="subtitle">Coordenadas:</h2>
+                <ul></ul>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+
+        $('.button').click(function fetchData() {
+            setTimeout(function () {
+                filterXML();
+
+            }, 3000);
+        })
+
+
+
+        function filterXML() {
+
+            $(".title").text('Carregando...')
+
+            $.ajax({
+                type: "GET",
+                url: "./static/MAPA5.kml",
+                //url: process.env.FILE,
+                dataType: "xml",
+
+                error: function (e) {
+                    alert("An error occurred while processing XML file");
+                    console.log("XML reading Failed: ", e);
+
+                },
+
+                success: function (response) {
+
+                    $("ul").children().remove();
+
+                    $(response).find('Point').each(function () {
+                        var lat_long = $(this).find('coordinates').text();
+
+                        function formatToCoordenate(coordenateToSplit, separator) {        
+                            const coordinatesArray = coordenateToSplit.split(separator)
+                            const coordinateReversed = coordinatesArray.reverse()
+
+                            coordinateReversed.shift()
+                            
+                            const lat = coordinateReversed[0]
+                            const long = coordinateReversed[1]
+
+                            const coordinate = `${lat}, ${long}`
+
+                            $(`<li>${coordinate}</li>`).appendTo('ul')//.text(coordinate)
+
+                            console.log(coordinate)
+                            
+                        }
+
+                        let comma = ','
+                        formatToCoordenate(lat_long, comma)
+
+
+                    })
+
+                    $(".title").text('Concluido!')
+
+                    setTimeout(()=>{
+                        $(".title").fadeOut()
+                        $(".title").tex('Carregar arquivo:').fadeIn()
+                       
+                    },2000)
+                    
+
+                }
+
+            })
+        }
+
+    </script>
+
+</body>
+
+</html>
