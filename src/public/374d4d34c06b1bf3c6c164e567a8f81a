@@ -1,0 +1,4588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MAPA5.kml</name>
+	<StyleMap id="msn_icon-1_6_0_00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-1_6_0_00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-1_6_0_00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon-1_6_0_00">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>C:/Users/Projetos/AppData/LocalLow/Google/GoogleEarth/icon-1_6_0_0_1.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-0F9D58-highlight0">
+		<IconStyle>
+			<Icon>
+				<href>C:/Users/Projetos/AppData/LocalLow/Google/GoogleEarth/icon-1_6_0_0_1.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1899-0F9D58-normal0">
+		<IconStyle>
+			<Icon>
+				<href>C:/Users/Projetos/AppData/LocalLow/Google/GoogleEarth/icon-1_6_0_0_1.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-0F9D580">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0F9D58-normal0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0F9D58-highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon-1_6_0_00">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>C:/Users/Projetos/AppData/LocalLow/Google/GoogleEarth/icon-1_6_0_0_1.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>MAPA5</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.323885,-23.591377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.317756,-23.585314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.325764,-23.59203,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.328302,-23.592133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.319805,-23.591363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.31878200000001,-23.59291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.317086,-23.587892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO4</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.059969,-23.612412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO7</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.05770799999999,-23.612306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO6</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.057652,-23.611026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO1</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.06313400000001,-23.612113,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO3</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.061448,-23.610454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO8</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.058326,-23.609038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO11</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.056567,-23.606449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO12</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.054956,-23.604661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO5</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.05874099999999,-23.611659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO16</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.062257,-23.611378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO9</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.056982,-23.609181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO13</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.050369,-23.604552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROJETO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04818,-23.60292400000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO6</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.041364,-23.648205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO7</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.040694,-23.649291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO8</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.041604,-23.650024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO9</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04073400000001,-23.650585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO10</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.039613,-23.65072199999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO6</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.046361,-23.643053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1:4</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.035663,-23.643851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1:4</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.031828,-23.644598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1:4</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.034147,-23.647774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1:4</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.034631,-23.650861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1:4</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.034156,-23.653784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO01</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.03662,-23.641819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO Ativa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.036331,-23.643085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO03</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.037763,-23.643104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO04</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.037502,-23.644175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO5 1/0</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.046259,-23.644185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO5 1/1</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.042392,-23.643701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marcador sem título</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.12649099999999,-23.486122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marcador sem título</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.12836,-23.487941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marcador sem título</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.129955,-23.490335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marcador sem título</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.131275,-23.489561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.029494,-23.605436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.027015,-23.603482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.026889,-23.604628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.02618300000001,-23.603875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.02765,-23.605537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.02959,-23.604841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.03634700000001,-23.697955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.034883,-23.695379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.035918,-23.696929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.03811,-23.695386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.03846,-23.694409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.036988,-23.695572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.03569499999999,-23.695777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.03888,-23.695455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.041914,-23.69444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.039241,-23.696665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00473199999999,-23.652266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.003983,-23.649568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.004179,-23.650343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.003053,-23.649823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00265,-23.64857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00446,-23.65135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.002327,-23.649384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.002275,-23.647379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.002579,-23.645306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00189200000001,-23.644295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001552,-23.649276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.003587,-23.64846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000045,-23.646301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00083500000001,-23.645985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00123300000001,-23.644832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001772,-23.648299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001652,-23.647475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99989000000001,-23.647347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99978000000001,-23.648262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000423,-23.645225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00201100000001,-23.646467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.004256,-23.65246700000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000683,-23.647853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000504,-23.648859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99986199999999,-23.649709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.002717,-23.651583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001718,-23.645573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.999487,-23.650257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.998672,-23.649912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.002436,-23.654022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.003123,-23.653617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001072,-23.652071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.002302,-23.652537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.999188,-23.649454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001716,-23.651701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001751,-23.653034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001942,-23.650452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000814,-23.649983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000181,-23.650762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00101299999999,-23.650697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00317199999999,-23.652626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.98710999999999,-23.640935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00289,-23.646207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.989265,-23.637794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.989402,-23.639195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99269000000001,-23.638753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991505,-23.63814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99139300000001,-23.637536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99235,-23.636937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99253,-23.637946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991682,-23.638887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.987249,-23.640248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.993303,-23.636523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991092,-23.638985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99044800000001,-23.6391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.993737,-23.640843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.990899,-23.63805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99038399999999,-23.638633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.996077,-23.642013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99525800000001,-23.641614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.996287,-23.641292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.993907,-23.640217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99506499999999,-23.640472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99282,-23.640406,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.996702,-23.642261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.989389,-23.640404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>COND. PETIT VILLE</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#msn_icon-1_6_0_00</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.994385,-23.64077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.995498,-23.64119000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.990858,-23.640225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.996886,-23.641614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.98960700000001,-23.641343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.992252,-23.640073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.989087,-23.635862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991427,-23.632216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991914,-23.633359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.992021,-23.632737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.993694,-23.638591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.993429,-23.640662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99100000000001,-23.634252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991831,-23.634057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.995875,-23.644754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.996681,-23.644109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.990554,-23.633103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99504,-23.643456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.997036,-23.644682,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99681,-23.64446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99561199999999,-23.645067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.996364,-23.645129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.997445,-23.64493300000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99629899999999,-23.644537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.994633,-23.64387899999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.996757,-23.64506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.993512,-23.637506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99466,-23.64435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99722500000001,-23.644251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO ativa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.995606,-23.64371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99243899999999,-23.64603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99254400000001,-23.646926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991455,-23.647017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99099,-23.647478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.990411,-23.64795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.992575,-23.647987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991689,-23.648999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99177,-23.65034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.992239,-23.649981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99048100000001,-23.648834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.991414,-23.645956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.990529,-23.646198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.98958,-23.646491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.996137,-23.643905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.98740100000001,-23.639552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99344199999999,-23.646938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.992811,-23.645751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.003182,-23.647068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00092999999999,-23.640497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.999736,-23.640813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00047,-23.641381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.998938,-23.640712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000085,-23.639246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.999903,-23.638228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.999635,-23.637083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99937300000001,-23.636149,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001243,-23.638987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000974,-23.637948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00070300000001,-23.636821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99789499999999,-23.634889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00027,-23.634991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00084,-23.635806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.999066,-23.634908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001794,-23.640207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00145799999999,-23.636837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00286200000001,-23.636424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00288399999999,-23.641483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00491700000001,-23.636433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00189999999999,-23.640944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00361800000001,-23.640105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.005261,-23.637708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.002703,-23.637538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00482100000001,-23.638846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00408500000001,-23.63733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.003709,-23.6385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.002832,-23.639163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001792,-23.638897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001682,-23.637866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.00244,-23.639949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.995455,-23.644264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TIJUCO / AGRESTE</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.001353,-23.646612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TIJUCO / AGRESTE</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.000554,-23.646966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-46.99172799999999,-23.645141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.011526,-23.590707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.052745,-23.596953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.040458,-23.614647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04143699999999,-23.616348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cto</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04262899999999,-23.617828,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cto</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.044303,-23.617618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04557699999999,-23.616805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.046508,-23.616118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.041502,-23.613544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04412899999999,-23.6138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.045899,-23.613963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.046592,-23.614249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.045005,-23.615645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04415400000001,-23.61611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04253299999999,-23.617225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.045824,-23.614989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.044924,-23.614556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04399,-23.614953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.044269,-23.614312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.042027,-23.614917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.04265400000001,-23.615751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/ALX7VA03-OwjobnLr6CX9bpJn3K51ozmFjnrH2AwPuM4sYuBqJnesO8ZzPp68mhtw2RhJVDvgpUeWAKuF22vs12u6w" height="200" width="auto" /><br><br>descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext: [{"file_rel_path":"local_media\/img7174718455846598727","file_size":841335,"file_extension":".png"}]]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+					<value>[{&quot;file_rel_path&quot;:&quot;local_media\/img7174718455846598727&quot;,&quot;file_size&quot;:841335,&quot;file_extension&quot;:&quot;.png&quot;}]</value>
+				</Data>
+				<Data name="gx_media_links">
+					<value>https://lh3.googleusercontent.com/umsh/ALX7VA03-OwjobnLr6CX9bpJn3K51ozmFjnrH2AwPuM4sYuBqJnesO8ZzPp68mhtw2RhJVDvgpUeWAKuF22vs12u6w</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.042361,-23.615822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.042911,-23.615278,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.043158,-23.615443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: -1<br>com_exlyo_mapmarker_customfields: []<br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+					<value>-1</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+					<value>[]</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.040257,-23.614155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>COND. ARAUCARIA</name>
+			<visibility>0</visibility>
+			<description><![CDATA[descrição: CTO Ativa<br>com_exlyo_mapmarker_piniconcode: <br>com_exlyo_mapmarker_customfields: <br>com_exlyo_mapmarker_images_with_ext:]]></description>
+			<styleUrl>#icon-1899-0F9D580</styleUrl>
+			<ExtendedData>
+				<Data name="descrição">
+					<value>CTO Ativa</value>
+				</Data>
+				<Data name="com_exlyo_mapmarker_piniconcode">
+				</Data>
+				<Data name="com_exlyo_mapmarker_customfields">
+				</Data>
+				<Data name="com_exlyo_mapmarker_images_with_ext">
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-47.017019,-23.615228,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
