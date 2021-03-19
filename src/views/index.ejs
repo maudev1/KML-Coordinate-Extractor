@@ -55,7 +55,7 @@
                         </div>
                         <div class="field">
                             <div class="control">
-                                
+
 
                             </div>
                         </div>
@@ -68,13 +68,31 @@
 
             </div>
 
-
+<div class="divider is-vertical"></div>
             <div class="column">
 
-                <br>
+              
+                <table class="table is-bordered">
+                    <thead>
+                        <tr>
+                            <th><abbr title="ID">ID</abbr></th>
+                            <th>Coordenada</th>
+                            <td><i class="fas fa-globe"></i></td>
+                        </tr>
+                    </thead>
+                    <tbody class="coordinate">
+                        
+                    
+                        
+                        
 
-                <h2 class="subtitle">Coordenadas:</h2>
-                <ul></ul>
+                        
+                        
+                    </tbody>
+
+
+                </table>
+
             </div>
 
 
@@ -121,8 +139,8 @@
 
                             const coordinate = `${lat}, ${long}`
 
-                            $(`<li>${coordinate}</li>`).appendTo('ul')
-
+                            //$(`<tr><td>1</td><td>${coordinate}</td><td>teste</td><tr>`).appendTo('.coordinate')
+                                $(`<tr><td>id</td><td><p>${coordinate}</p></td><td><a href="https://www.google.com.br/maps/place/${coordinate}" target="__blank"><i class="fas fa-globe"></a></td><tr>`).appendTo('.coordinate')
                             console.log(coordinate)
 
                         }
