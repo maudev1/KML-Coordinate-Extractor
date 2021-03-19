@@ -13,7 +13,7 @@ Uma aplicação para extrair coordenadas geográficas de arquivos KML.
         Abra o terminal na raiz da pasta aplicação e digite "npm start" sem aspas, logo em seguida aperte enter.
     </li>
     <li>
-        Acesse via browser o seguinte URL localhost:3000/home, e clique no botão executar.
+        Acesse via browser o seguinte URL localhost:3000/home, e clique no botão Atualizar.
     </li>
 
 </ol>
